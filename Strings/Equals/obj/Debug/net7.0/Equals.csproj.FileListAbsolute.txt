@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\Strings\Equals\bin\Debug\net7.0\Equals.exe
+C:\Users\Marci\Balta-io Projects\Strings\Equals\bin\Debug\net7.0\Equals.deps.json
+C:\Users\Marci\Balta-io Projects\Strings\Equals\bin\Debug\net7.0\Equals.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\Strings\Equals\bin\Debug\net7.0\Equals.dll
+C:\Users\Marci\Balta-io Projects\Strings\Equals\bin\Debug\net7.0\Equals.pdb
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\Equals.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\Equals.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\Equals.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\Equals.dll
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\refint\Equals.dll
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\Equals.pdb
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\Equals.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\Strings\Equals\obj\Debug\net7.0\ref\Equals.dll

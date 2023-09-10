@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\Marci\Balta-io Projects\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\Marci\Balta-io Projects\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\Marci\Balta-io Projects\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\Calculator\obj\Debug\net7.0\ref\Calculator.dll

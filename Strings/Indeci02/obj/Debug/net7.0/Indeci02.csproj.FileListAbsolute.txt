@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\bin\Debug\net7.0\Indeci02.exe
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\bin\Debug\net7.0\Indeci02.deps.json
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\bin\Debug\net7.0\Indeci02.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\bin\Debug\net7.0\Indeci02.dll
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\bin\Debug\net7.0\Indeci02.pdb
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\Indeci02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\Indeci02.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\Indeci02.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\Indeci02.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\Indeci02.dll
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\refint\Indeci02.dll
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\Indeci02.pdb
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\Indeci02.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\Strings\Indeci02\obj\Debug\net7.0\ref\Indeci02.dll

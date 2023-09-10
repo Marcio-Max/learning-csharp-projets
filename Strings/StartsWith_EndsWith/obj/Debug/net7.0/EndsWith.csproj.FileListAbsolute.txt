@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\bin\Debug\net7.0\EndsWith.exe
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\bin\Debug\net7.0\EndsWith.deps.json
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\bin\Debug\net7.0\EndsWith.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\bin\Debug\net7.0\EndsWith.dll
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\bin\Debug\net7.0\EndsWith.pdb
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\EndsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\EndsWith.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\EndsWith.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\EndsWith.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\EndsWith.dll
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\refint\EndsWith.dll
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\EndsWith.pdb
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\EndsWith.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\Strings\StartsWith_EndsWith\obj\Debug\net7.0\ref\EndsWith.dll

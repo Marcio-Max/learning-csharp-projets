@@ -1,0 +1,7 @@
+C:\Users\Marci\Balta-io Projects\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Marci\Balta-io Projects\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Marci\Balta-io Projects\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Marci\Balta-io Projects\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\Marci\Balta-io Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Marci\Balta-io Projects\Strings\Strings\obj\Debug\Strings.pdb

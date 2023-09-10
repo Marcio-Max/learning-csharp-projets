@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\bin\Debug\net7.0\ArraysPercorrendo.exe
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\bin\Debug\net7.0\ArraysPercorrendo.deps.json
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\bin\Debug\net7.0\ArraysPercorrendo.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\bin\Debug\net7.0\ArraysPercorrendo.dll
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\bin\Debug\net7.0\ArraysPercorrendo.pdb
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ArraysPercorrendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ArraysPercorrendo.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ArraysPercorrendo.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ArraysPercorrendo.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ArraysPercorrendo.dll
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\refint\ArraysPercorrendo.dll
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ArraysPercorrendo.pdb
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ArraysPercorrendo.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\ArraysPercorrendo\obj\Debug\net7.0\ref\ArraysPercorrendo.dll

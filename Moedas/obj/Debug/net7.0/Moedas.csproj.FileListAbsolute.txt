@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\Moedas\bin\Debug\net7.0\Moedas.exe
+C:\Users\Marci\Balta-io Projects\Moedas\bin\Debug\net7.0\Moedas.deps.json
+C:\Users\Marci\Balta-io Projects\Moedas\bin\Debug\net7.0\Moedas.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\Moedas\bin\Debug\net7.0\Moedas.dll
+C:\Users\Marci\Balta-io Projects\Moedas\bin\Debug\net7.0\Moedas.pdb
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\Moedas.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\Moedas.dll
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\refint\Moedas.dll
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\Moedas.pdb
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\Moedas.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\Moedas\obj\Debug\net7.0\ref\Moedas.dll

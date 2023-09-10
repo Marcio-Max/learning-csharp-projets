@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\Strings\string\bin\Debug\net7.0\string.exe
+C:\Users\Marci\Balta-io Projects\Strings\string\bin\Debug\net7.0\string.deps.json
+C:\Users\Marci\Balta-io Projects\Strings\string\bin\Debug\net7.0\string.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\Strings\string\bin\Debug\net7.0\string.dll
+C:\Users\Marci\Balta-io Projects\Strings\string\bin\Debug\net7.0\string.pdb
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\string.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\string.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\string.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\string.dll
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\refint\string.dll
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\string.pdb
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\string.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\Strings\string\obj\Debug\net7.0\ref\string.dll

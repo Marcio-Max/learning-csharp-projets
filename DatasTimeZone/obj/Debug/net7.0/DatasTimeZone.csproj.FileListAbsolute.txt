@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\DatasTimeZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\DatasTimeZone.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\DatasTimeZone.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\DatasTimeZone.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\bin\Debug\net7.0\DatasTimeZone.exe
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\bin\Debug\net7.0\DatasTimeZone.deps.json
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\bin\Debug\net7.0\DatasTimeZone.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\bin\Debug\net7.0\DatasTimeZone.dll
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\bin\Debug\net7.0\DatasTimeZone.pdb
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\DatasTimeZone.dll
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\refint\DatasTimeZone.dll
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\DatasTimeZone.pdb
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\DatasTimeZone.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\DatasTimeZone\obj\Debug\net7.0\ref\DatasTimeZone.dll

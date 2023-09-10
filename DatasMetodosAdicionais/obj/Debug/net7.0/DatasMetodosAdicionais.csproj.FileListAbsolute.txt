@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\bin\Debug\net7.0\DatasMetodosAdicionais.exe
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\bin\Debug\net7.0\DatasMetodosAdicionais.deps.json
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\bin\Debug\net7.0\DatasMetodosAdicionais.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\bin\Debug\net7.0\DatasMetodosAdicionais.dll
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\bin\Debug\net7.0\DatasMetodosAdicionais.pdb
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\DatasMetodosAdicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\DatasMetodosAdicionais.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\DatasMetodosAdicionais.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\DatasMetodosAdicionais.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\DatasMetodosAdicionais.dll
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\refint\DatasMetodosAdicionais.dll
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\DatasMetodosAdicionais.pdb
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\DatasMetodosAdicionais.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\DatasMetodosAdicionais\obj\Debug\net7.0\ref\DatasMetodosAdicionais.dll
