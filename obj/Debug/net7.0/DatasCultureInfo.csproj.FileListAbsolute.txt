@@ -1,0 +1,14 @@
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\bin\Debug\net7.0\DatasCultureInfo.exe
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\bin\Debug\net7.0\DatasCultureInfo.deps.json
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\bin\Debug\net7.0\DatasCultureInfo.runtimeconfig.json
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\bin\Debug\net7.0\DatasCultureInfo.dll
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\bin\Debug\net7.0\DatasCultureInfo.pdb
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\DatasCultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\DatasCultureInfo.AssemblyInfoInputs.cache
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\DatasCultureInfo.AssemblyInfo.cs
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\DatasCultureInfo.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\DatasCultureInfo.dll
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\refint\DatasCultureInfo.dll
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\DatasCultureInfo.pdb
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\DatasCultureInfo.genruntimeconfig.cache
+C:\Users\Marci\Balta-io Projects\DatasCultureInfo\obj\Debug\net7.0\ref\DatasCultureInfo.dll
